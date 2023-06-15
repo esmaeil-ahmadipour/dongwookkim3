@@ -1,5 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Dongwook_Kim&fontSize=90" />
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbit&size=75&pause=1000&color=D4A7FB&background=DAE4FF2C&center=true&vCenter=true&width=1000&height=150&lines=Dongwook_Kim;%EB%81%8A%EC%9E%84%EC%97%86%EC%9D%B4+%EC%84%B1%EC%9E%A5%ED%95%98%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90)](https://git.io/typing-svg)
+
 ## STACK
 <div>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
