@@ -2,28 +2,36 @@
 
 ## STACK
 ### Languages
-<div>
-  
+<div align=center>
+
   ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
   ![HTML](https://img.shields.io/badge/HTML-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
   ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
   ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+  <br>
 </div>
 
 ### Tools
-<div>
-
-  ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
+<div align=center>
   
+  ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+	<br>
 </div>
 
-<br>
+### blog
+<div align=center>
+	<a href="https://swbsnewby7.tistory.com/">
+		<img src="https://img.shields.io/badge/Blog-FF9800?style=for-the-badge&logo=Tistory&logoColor=white" />
+	</a>
+	<br>
+</div>
 
 ## Level
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dongwookkim3&show_icons=true&theme=cobalt)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dongwook7)](https://solved.ac/profiles/dongwook7)
+
 ## Statistics
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
