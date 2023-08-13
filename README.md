@@ -36,16 +36,6 @@
 	<br>
 </div>
 
-### blog
-<div align=center>
-	<a href="https://swbsnewby7.tistory.com/">
-		<img src="https://img.shields.io/badge/Blog-FF9800?style=for-the-badge&logo=Tistory&logoColor=white" />
-	</a>
- 	<a href="https://www.notion.so/4bcee3d2019442308d332e9be3b0891c">
-		<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Notion&logoColor=white" />
-	</a>
-	<br>
-</div>
 
 ## Level
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dongwookkim3&show_icons=true&theme=cobalt)
