@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=75&pause=1000&color=9F3DE4E4&center=true&width=1000&height=150&lines=Dongwook_Kim;%EB%81%8A%EC%9E%84%EC%97%86%EC%9D%B4+%EC%84%B1%EC%9E%A5%ED%95%98%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90)](https://git.io/typing-svg)
-
 ## STACK
 ### Languages
 #### Use Language
@@ -38,8 +36,10 @@
 
 
 ## Level
-![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dongwookkim3&show_icons=true&theme=cobalt)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dongwook7)](https://solved.ac/profiles/dongwook7)
+<div align=center>
+<img src="https://github-readme-stats.vercel.app/api?username=dongwookkim3&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongwookkim3&layout=compact">
 
-## Statistics
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+</div>
+
+<!--![](./profile-3d-contrib/profile-night-rainbow.svg)-->
