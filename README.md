@@ -1,3 +1,12 @@
+## 소개
+
+### IoT System Developer <br>
+
+학교 : 부산 소프트웨어 마이스터 고등학교 <br>
+사용재료 : Arduino - Node MCU V3 (MYSQL) , WeMos D1 R1 (Firebase) <br>
+언어 : C++ , MYSQL , Flask , Firebase <br>
+
+
 ## STACK
 ### Languages
 #### Use Language
@@ -36,7 +45,9 @@
   ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
   ![intellij idea](https://img.shields.io/badge/intellij%20idea-000000.svg?&style=for-the-badge&logo=intellij%20idea&logoColor=white)
-	<br>
+  ![xampp](https://img.shields.io/badge/xampp-FB7A24.svg?&style=for-the-badge&logo=xampp&logoColor=white)
+ 
+ <br>
 </div>
 
 
