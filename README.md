@@ -46,6 +46,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
   ![intellij idea](https://img.shields.io/badge/intellij%20idea-000000.svg?&style=for-the-badge&logo=intellij%20idea&logoColor=white)
   ![xampp](https://img.shields.io/badge/xampp-FB7A24.svg?&style=for-the-badge&logo=xampp&logoColor=white)
+  ![github](https://img.shields.io/badge/github-000000.svg?&style=for-the-badge&logo=github&logoColor=white)
  
  <br>
 </div>
@@ -53,7 +54,7 @@
 
 ## Level
 <div align=center>
-<img src="https://github-readme-stats.vercel.app/api?username=dongwookkim3&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=dongwookkim3&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongwookkim3&layout=compact">
 
 </div>
