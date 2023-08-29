@@ -55,7 +55,7 @@
 
 <div align=center>
 	<a href="https://velog.io/@dongwook_kim7"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=velog&logoColor=white"/>
-		<a href="[https://velog.io/@dongwook_kim7](https://www.notion.so/4bcee3d2019442308d332e9be3b0891c)"><img src="https://img.shields.io/badge/Velog-000000?style=flat-square&logo=notion&logoColor=white"/>
+		<a href="https://www.notion.so/4bcee3d2019442308d332e9be3b0891c"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 </div>
 
 ## Level
