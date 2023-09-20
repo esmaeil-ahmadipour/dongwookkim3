@@ -1,6 +1,6 @@
 ## 소개
 
-### IoT System Developer <br>
+### IoT System Developer<br>
 
 학교 : 부산 소프트웨어 마이스터 고등학교<br>
 사용재료 : Arduino - Node MCU V3 (MYSQL) , WeMos D1 R1 (Firebase) <br>
