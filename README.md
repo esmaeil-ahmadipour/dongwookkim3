@@ -3,8 +3,8 @@
 ### IoT System Developer<br>
 
 학교 : 부산 소프트웨어 마이스터 고등학교<br>
-사용재료 : Arduino - Node MCU V3 (MYSQL) , WeMos D1 R1 (Firebase) <br>
-언어 : C++ , MYSQL , Flask , Firebase , HTML , CSS<br>
+사용재료 : Arduino - Node MCU V3, raspberry PI 4B
+언어 : C++ , MYSQL , Flask , Firebase , HTML , JS<br>
 
 
 ## STACK
