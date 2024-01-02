@@ -14,12 +14,10 @@
 </div>
 
 ## Level
+<a href="https://stats.dooboo.io"><img src="https://stats.dooboo.io/api/github-stats-advanced?login=dongwookkim3" width="600" /></a>
 
-![dongwookkim3 github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=dongwookkim3)
 
 ![dongwookkim3 github-trophies](https://stats.dooboo.io/api/github-trophies?login=dongwookkim3)
 
 
-<div align=center>
-<img src="https://github-readme-stats.vercel.app/api?username=dongwookkim3&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=dongwookkim3&show_icons=true&theme=radical" width="480" />
