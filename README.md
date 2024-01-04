@@ -8,3 +8,4 @@
 ### GitHub Stats
 <a href="https://stats.dooboo.io"><img src="https://stats.dooboo.io/api/github-stats-advanced?login=dongwookkim3" width="600" /></a>
 <img src="https://github-readme-stats.vercel.app/api?username=dongwookkim3&show_icons=true&theme=radical" width="480" />
+<img src="https://github-readme-stats.vercel.app/api?username=dongwookkim3&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" width="480" />
